@@ -1,1 +1,1 @@
-const String BASE_URL = 'https://smart-patient-queue-xxxxx.onrender.com';
+const String BASE_URL = 'https://smart-patient-queue-1.onrender.com';
