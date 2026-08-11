@@ -1,2 +1,1 @@
-// In lib/constants.dart
-const String BASE_URL = 'https://your-render-url.onrender.com';
+const String BASE_URL = 'https://smart-patient-queue-xxxxx.onrender.com';

@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd frontend/smart_queue_app && flutter build web",
+  "outputDirectory": "frontend/smart_queue_app/build/web",
+  "framework": "flutter"
+}
